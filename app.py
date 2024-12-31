@@ -19,7 +19,7 @@ def predict():
     X = pd.DataFrame([row])
     prediction = pipe.predict(X)
     # st.success("Predicted House Price: {}".format(prediction))
-    st.write("Predicted House Price is: {}$".format(str(prediction)))
+    st.write("Predicted House Price is: {}₹".format(str(prediction)))
     st.toast('Price is updated at top')
 
 st.button("Get House Price",on_click=predict)
