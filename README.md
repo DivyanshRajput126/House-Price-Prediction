@@ -2,6 +2,6 @@
 This project focuses on predicting house prices using machine learning regression algorithms. The model is trained on a dataset containing various features like location, size, and amenities. The application is deployed using Streamlit to provide an interactive user interface for predictions.
 
 # Key Feature
-Data preprocessing and feature engineering
-Regression models for accurate price prediction
-Streamlit-based web app for user-friendly predictions
+1. Data preprocessing and feature engineering
+2. Regression models for accurate price prediction
+3. Streamlit-based web app for user-friendly predictions
