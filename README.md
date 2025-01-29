@@ -12,6 +12,6 @@ This project focuses on predicting house prices using machine learning regressio
 3. Deployment: Streamlit
 
 # How to run
-1. git clone <repo-link>
+1. git clone <a href="https://github.com/DivyanshRajput126/House-Price-Prediction/">https://github.com/DivyanshRajput126/House-Price-Prediction/</a>
 2. pip install -r requirements.txt
 3. streamlit run app.py
